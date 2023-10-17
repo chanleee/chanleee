@@ -1,7 +1,7 @@
 ### Hi there 👋, it's Chan here!
 #### I am a student developer with a keen interest in the metaverse.
-I have contributed to research on chatbots as an undergraduate researcher at DGIST DIAG lab. I also had the opportunity to spend a summer session as an exchange student at Boston University.
-I am diving deep into the world of deep learning while participating in Kaggle competitions through the Google Machine Learning Bootcamp. Feel free to connect and collaborate with me on exciting projects in the realm of AI and machine learning!
+I have contributed to research on chatbots as an undergraduate researcher at DGIST DIAG lab. I also had the opportunity to spend a summer session as an exchange student at Boston University. <br>
+I am diving deep into the world of deep learning while participating in Kaggle competitions through the Google Machine Learning Bootcamp. Feel free to connect and collaborate with me on exciting projects in the realm of AI and machine learning! <br>
 I aspire to leverage my skills for enduring values in this world. I firmly believe that these timeless virtues can be discovered not just in the physical realm but also within the virtual landscapes, and my profound fascination for the metaverse drives me towards the ultimate goal of undertaking metaverse development projects in the near future.
 
 Skills: Python / Machine Learning / Deep Learning
