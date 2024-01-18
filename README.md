@@ -1,13 +1,14 @@
 ### Hi there 👋, it's Chan here!
-#### I am a student developer with a keen interest in the metaverse.
-I have contributed to research on chatbots as an undergraduate researcher at DGIST DIAG lab. I also had the opportunity to spend a summer session as an exchange student at Boston University. <br>
-I am diving deep into the world of deep learning while participating in Kaggle competitions through the Google Machine Learning Bootcamp. Feel free to connect and collaborate with me on exciting projects in the realm of AI and machine learning! <br>
-I aspire to leverage my skills for enduring values in this world. I firmly believe that these timeless virtues can be discovered not just in the physical realm but also within the virtual landscapes, and my profound fascination for the metaverse drives me towards the ultimate goal of undertaking metaverse development projects in the near future.
+#### I am a student developer with a keen interest in the Metaverse, Computer Vision, and LLM.
+During my time as an undergraduate researcher at DGIST DIAG lab, I had the amazing opportunity to contribute to research on chatbots. This experience not only allowed me to gain valuable insights but also sparked my interest in the field.Additionally, I had the privilege of spending a summer session as an exchange student at Boston University. This immersive experience broadened my horizons and deepened my understanding of the global tech community. <br>
+I learned Deep Learning through the Google Machine Learning Bootcamp and developed a keen interest in this field. Participating in Kaggle competitions with Google MLB was a practical way to apply my knowledge and proved to be an exciting experience. Given the opportunity, I would like to take on challenges in other competitions as well. <br>
+I am always open to connecting and collaborating with like-minded individuals on innovative projects in the vast realm of AI and machine learning. Together, we can push boundaries and create something truly remarkable! <br>
+One of my greatest aspirations is to utilize my skills to create enduring value in this world. I firmly believe that timeless virtues can be found not only in the physical realm but also within the virtual landscapes of the metaverse. This profound fascination drives me towards my ultimate goal of undertaking metaverse development projects and CV / LLM research projects related to the metaverse in the near future.
 
 Skills: Python / Machine Learning / Deep Learning
 
-- 🌱 I’m currently learning on Google Machine Learning Bootcamp. 
-- 📫 How to reach me: dgist.chanlee@gmail.com / (82)01033860178 
+- 🌱 Currently, I have a keen interest in projects and research utilizing LLM or Computer Vision!
+- 📫 How to reach me: cahbacnd1357@naver.com / (82)01033860178 
 - 😄 Pronouns: he / him 
 - ⚡ Fun fact: I watched the movie 'The Social Network' and it inspired me to dream. 
 
