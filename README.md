@@ -19,7 +19,7 @@ Currently serving as a **Backend Developer** in a specialized unit of the **Repu
 - Tools: Git, Docker, Elasticsearch, Shell Scripting, LaTeX
 
 ### Education & Certificates
-- DGIST | B.S. in Computer Science (On Leave) - GPA: 3.98/4.3
+- DGIST | B.S. in Computer Science (On Leave) - GPA: 3.98/4.3 <br>
   Nationally-sponsored full tuition scholarship (Merit-based).
 - Certificates: Advanced LLM Agents (UC Berkeley RDI, Mastery Tier) , Deep Learning Specialization (Coursera)
 
