@@ -2,17 +2,26 @@
 **Undergrad AI Research Engineer** at **DGIST** focusing on Reinforcement Learning, LLMs, and Quantitative Modeling. <br>
 Currently serving as a **Backend Developer** in a specialized unit of the **Republic of Korea Air Force**. <br>
 
-During my time as an undergraduate researcher at DGIST DIAG lab, I had the amazing opportunity to contribute to research on chatbots. This experience not only allowed me to gain valuable insights but also sparked my interest in the field.Additionally, I had the privilege of spending a summer session as an exchange student at Boston University. This immersive experience broadened my horizons and deepened my understanding of the global tech community. <br>
-I learned Deep Learning through the Google Machine Learning Bootcamp and developed a keen interest in this field. Participating in Kaggle competitions with Google MLB was a practical way to apply my knowledge and proved to be an exciting experience. Given the opportunity, I would like to take on challenges in other competitions as well. <br>
-I am always open to connecting and collaborating with like-minded individuals on innovative projects in the vast realm of AI and machine learning. Together, we can push boundaries and create something truly remarkable! <br>
-One of my greatest aspirations is to utilize my skills to create enduring value in this world. I firmly believe that timeless virtues can be found not only in the physical realm but also within the virtual landscapes of the metaverse. This profound fascination drives me towards my ultimate goal of undertaking metaverse development projects and CV / LLM research projects related to the metaverse in the near future.
+### Highlights
+- Backend Developer | ROKAF
+  Developing a force-wide hybrid search engine and an LLM-powered chatbot. Selected as one of 8 from ~110 applicants for a specialized AI/data infrastructure unit.
+- Project Lead & Quant Dev | MOIM
+  Led a team to develop a conversational investment app, winning the Creativity Award at the ROKAF Startup Competition. Architected a Hierarchical Reinforcement Learning (HRL) quant engine and fine-tuned an LLM for personalized financial dialogues.
+- Kaggle Competition
+  Placed 2nd out of 1,908 teams in the 'Binary Prediction of Smoker Status' competition during the Google Machine Learning Bootcamp 2023.
+- AI Research
+  Built a custom RL environment for financial time series at PISTAR Lab, Modulabs and developed a community engagement chatbot for elderly users at DIAG Lab, DGIST.
 
-Skills: Python / Machine Learning / Deep Learning
+### Tech Stack
+- Languages: Python, C++, JavaScript, HTML/CSS
+- AI/ML: PyTorch, TensorFlow, LangChain, Stable-Baselines3, Scikit-learn, NumPy
+- Core Skills: Reinforcement Learning, Quant Modeling, Hybrid Search, Algorithms
+- Tools: Git, Docker, Elasticsearch, Shell Scripting, LaTeX
 
-- 🌱 Currently, I have a keen interest in projects and research utilizing LLM or Computer Vision!
-- 📫 How to reach me: cahbacnd1357@naver.com / (82)01033860178 
-- 😄 Pronouns: he / him 
-- ⚡ Fun fact: I watched the movie 'The Social Network' and it inspired me to dream. 
+### Education & Certificates
+- DGIST | B.S. in Computer Science (On Leave) - GPA: 3.98/4.3
+  Nationally-sponsored full tuition scholarship (Merit-based).
+- Certificates: Advanced LLM Agents (UC Berkeley RDI, Mastery Tier) , Deep Learning Specialization (Coursera)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chanleee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chanleee/) 
