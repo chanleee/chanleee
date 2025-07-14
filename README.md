@@ -1,5 +1,8 @@
-### Hi there 👋, it's Chan here!
-#### I am a student developer with a keen interest in the Metaverse, Computer Vision, and LLM.
+### Chan Lee
+
+**Undergrad AI Research Engineer** at **DGIST** focusing on Reinforcement Learning, LLMs, and Quantitative Modeling. <br>
+Currently serving as a **Backend Developer** in a specialized unit of the **Republic of Korea Air Force**. <br>
+
 During my time as an undergraduate researcher at DGIST DIAG lab, I had the amazing opportunity to contribute to research on chatbots. This experience not only allowed me to gain valuable insights but also sparked my interest in the field.Additionally, I had the privilege of spending a summer session as an exchange student at Boston University. This immersive experience broadened my horizons and deepened my understanding of the global tech community. <br>
 I learned Deep Learning through the Google Machine Learning Bootcamp and developed a keen interest in this field. Participating in Kaggle competitions with Google MLB was a practical way to apply my knowledge and proved to be an exciting experience. Given the opportunity, I would like to take on challenges in other competitions as well. <br>
 I am always open to connecting and collaborating with like-minded individuals on innovative projects in the vast realm of AI and machine learning. Together, we can push boundaries and create something truly remarkable! <br>
