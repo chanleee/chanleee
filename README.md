@@ -3,13 +3,13 @@
 Currently serving as a **Backend Developer** in a specialized unit of the **Republic of Korea Air Force**. <br>
 
 ### Highlights
-- Backend Developer | ROKAF
+- Backend Developer | ROKAF <br>
   Developing a force-wide hybrid search engine and an LLM-powered chatbot. Selected as one of 8 from ~110 applicants for a specialized AI/data infrastructure unit.
-- Project Lead & Quant Dev | MOIM
+- Project Lead & Quant Dev | MOIM <br>
   Led a team to develop a conversational investment app, winning the Creativity Award at the ROKAF Startup Competition. Architected a Hierarchical Reinforcement Learning (HRL) quant engine and fine-tuned an LLM for personalized financial dialogues.
-- Kaggle Competition
+- Kaggle Competition <br>
   Placed 2nd out of 1,908 teams in the 'Binary Prediction of Smoker Status' competition during the Google Machine Learning Bootcamp 2023.
-- AI Research
+- AI Research <br>
   Built a custom RL environment for financial time series at PISTAR Lab, Modulabs and developed a community engagement chatbot for elderly users at DIAG Lab, DGIST.
 
 ### Tech Stack
