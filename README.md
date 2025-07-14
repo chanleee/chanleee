@@ -1,5 +1,4 @@
 ## Chan Lee
----
 **Undergrad AI Research Engineer** at **DGIST** focusing on Reinforcement Learning, LLMs, and Quantitative Modeling. <br>
 Currently serving as a **Backend Developer** in a specialized unit of the **Republic of Korea Air Force**. <br>
 
